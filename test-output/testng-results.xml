@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-25T11:54:52 IST" name="Default suite" finished-at="2022-08-25T11:55:27 IST" duration-ms="35266">
+  <suite started-at="2022-08-25T17:27:51 IST" name="Default suite" finished-at="2022-08-25T17:28:30 IST" duration-ms="38705">
     <groups>
     </groups>
-    <test started-at="2022-08-25T11:54:52 IST" name="Default test" finished-at="2022-08-25T11:55:27 IST" duration-ms="35266">
+    <test started-at="2022-08-25T17:27:51 IST" name="Default test" finished-at="2022-08-25T17:28:30 IST" duration-ms="38705">
       <class name="com.goPuff.testng.DeleteButtonInCartTest">
-        <test-method is-config="true" signature="configBS()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T11:54:52 IST" name="configBS" finished-at="2022-08-25T11:54:52 IST" duration-ms="14" status="PASS">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T17:27:51 IST" name="configBS" finished-at="2022-08-25T17:27:51 IST" duration-ms="25" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBS -->
-        <test-method is-config="true" signature="configBC()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T11:54:52 IST" name="configBC" finished-at="2022-08-25T11:54:56 IST" duration-ms="3845" status="PASS">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T17:27:51 IST" name="configBC" finished-at="2022-08-25T17:28:24 IST" duration-ms="32967" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBC -->
-        <test-method is-config="true" signature="configBM()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T11:54:56 IST" name="configBM" finished-at="2022-08-25T11:55:19 IST" duration-ms="23239" status="PASS">
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T17:28:24 IST" name="configBM" finished-at="2022-08-25T17:28:26 IST" duration-ms="1374" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBM -->
-        <test-method signature="verifydeleteButtonInCart()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T11:55:19 IST" name="verifydeleteButtonInCart" finished-at="2022-08-25T11:55:27 IST" duration-ms="7655" status="PASS">
+        <test-method signature="verifydeleteButtonInCart()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T17:28:26 IST" name="verifydeleteButtonInCart" finished-at="2022-08-25T17:28:29 IST" duration-ms="3748" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifydeleteButtonInCart -->
-        <test-method is-config="true" signature="configAM()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T11:55:27 IST" name="configAM" finished-at="2022-08-25T11:55:27 IST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T17:28:29 IST" name="configAM" finished-at="2022-08-25T17:28:30 IST" duration-ms="41" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAM -->
-        <test-method is-config="true" signature="configAC()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T11:55:27 IST" name="configAC" finished-at="2022-08-25T11:55:27 IST" duration-ms="438" status="PASS">
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T17:28:30 IST" name="configAC" finished-at="2022-08-25T17:28:30 IST" duration-ms="457" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAC -->
-        <test-method is-config="true" signature="configAS()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T11:55:27 IST" name="configAS" finished-at="2022-08-25T11:55:27 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.goPuff.testng.DeleteButtonInCartTest@f736069]" started-at="2022-08-25T17:28:30 IST" name="configAS" finished-at="2022-08-25T17:28:30 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAS -->
